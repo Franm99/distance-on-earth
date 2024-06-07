@@ -1,0 +1,17 @@
+branca==0.7.2
+certifi==2024.6.2
+charset-normalizer==3.3.2
+folium==0.16.0
+geographiclib==2.0
+geopy==2.4.1
+idna==3.7
+Jinja2==3.1.4
+markdown-it-py==3.0.0
+MarkupSafe==2.1.5
+mdurl==0.1.2
+numpy==1.26.4
+Pygments==2.18.0
+requests==2.32.3
+rich==13.7.1
+urllib3==2.2.1
+xyzservices==2024.6.0
